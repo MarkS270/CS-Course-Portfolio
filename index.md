@@ -1,9 +1,9 @@
 # Hello, My Name is Mark Stratan
 Welcome to my ICS4U Computer Science Portfolio. I use this website to allow people to see my work and reflections.
 
-## Highlights
-- 🔧 Project 1: *(title)* – *(1–2 lines about what it does)*
-- 🧠 Concept I learned: *(short note)*
+## Project 1: ____________
+- 🔧 Brief Description: *(briefly describe what w had to do)*
+- 🧠 Concept Needed: *(short note)*
 - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 
 ## About me
