@@ -1,5 +1,5 @@
-# Hi, I'm <Your Name>
-Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
+# Hello, My Name is Mark Stratan
+Welcome to my ICS4U Computer Science Portfolio. I use this website to allow people to see my work and reflections.
 
 ## Highlights
 - 🔧 Project 1: *(title)* – *(1–2 lines about what it does)*
